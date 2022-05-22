@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **redux-saga**
 
-- 🌱 I’m currently learning **TypeScript , Redux-Saga , React , Go**
+- 🌱 I’m currently learning **TypeScript , Redux-Saga , React , Node Js , Go**
 
 - 💬 Ask me about **React**
 
