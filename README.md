@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ismailbecit" target="blank"><img src="https://img.shields.io/twitter/follow/ismailbecit?logo=twitter&style=for-the-badge" alt="ismailbecit" /></a> </p>
 
-- 🔭 I’m currently working on **redux-saga**
+- 🔭 I’m currently working on **Angular - React - Express**
 
-- 🌱 I’m currently learning **TypeScript , Redux-Saga , React , Node Js , Go**
+- 🌱 I’m currently learning **TypeScript , Redux-Saga , React , Node Js , Go , Angular**
 
 - 💬 Ask me about **React**
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/ismailbecit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismailbecit" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ismailbecit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailbecit" height="30" width="40" /></a>
-<a href="https://instagram.com/@ismailbecit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ismailbecit" height="30" width="40" /></a>
+<a href="https://instagram.com/ismailbecit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ismailbecit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
