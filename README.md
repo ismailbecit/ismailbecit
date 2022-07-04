@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailbecit" alt="ismailbecit" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ismailbecit" target="blank"><img src="https://img.shields.io/twitter/follow/ismailbecit?logo=twitter&style=for-the-badge" alt="ismailbecit" /></a> </p>
-
 I'm ismail 21 years old. I have been dealing with software since 2019. I have been developing as a front end developer in a private company for the last 1 year. Software is a great thing for me, it's a profession I love and I'm constantly trying to improve myself in this profession. I'm generally interested in JavaScript technologies, besides, I have backend experience.
 
 - 🔭 I’m currently working on **Angular - React - Express**
