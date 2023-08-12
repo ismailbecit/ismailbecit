@@ -9,7 +9,7 @@ I'm ismail 21 years old. I have been dealing with software since 2019. I have be
 
 - 🔭 I’m currently working on **Angular - React - Express**
 
-- 🌱 I’m currently learning **TypeScript , Redux , React , React Native , Next Js ,  Node Js , Go **
+- 🌱 I’m currently learning **TypeScript , React , React Native , Next Js ,  Node Js , Go **
 
 - 💬 Ask me about **React**
 
