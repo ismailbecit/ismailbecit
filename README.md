@@ -7,7 +7,7 @@
 
 I'm ismail 21 years old. I have been dealing with software since 2019. I have been developing as a front end developer in a private company for the last 1 year. Software is a great thing for me, it's a profession I love and I'm constantly trying to improve myself in this profession. I'm generally interested in JavaScript technologies, besides, I have backend experience.
 
-- 🔭 I’m currently working on **Angular - React - Express**
+- 🔭 I’m currently working on **Nextjs - React - Express - Golang**
 
 - 🌱 I’m currently learning **TypeScript , React , React Native , Next Js ,  Node Js , Go **
 
