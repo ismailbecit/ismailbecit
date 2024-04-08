@@ -5,7 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailbecit" alt="ismailbecit" /></a> </p>
 
-I'm ismail 21 years old. I have been dealing with software since 2019. I have been developing as a front end developer in a private company for the last 1 year. Software is a great thing for me, it's a profession I love and I'm constantly trying to improve myself in this profession. I'm generally interested in JavaScript technologies, besides, I have backend experience.
+
+Hello, I'm İsmail, a software developer with 4 years of experience, primarily focused on JavaScript technologies. I have a fast and open-to-learning style, staying updated on new technologies. My expertise spans both Frontend and Backend development, with a goal of becoming a Full Stack Developer.
+
+
+I have a keen interest and proficiency in Go (Golang) for Backend development, enabling the creation of robust and high-speed web applications. On the Frontend, I prefer Next.js to build SEO-friendly and performance- driven websites, aiming for an optimal user experience.
+
+
+In my career, I aim to leverage my experiences, passion for learning, and tech interests in contributing to successful projects.
 
 - 🔭 I’m currently working on **Nextjs - React - Express - Golang**
 
