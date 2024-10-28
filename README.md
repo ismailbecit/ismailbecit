@@ -23,7 +23,6 @@ In my career, I aim to leverage my experiences, passion for learning, and tech i
 - 📫 How to reach me **ismbct12@gmail.com**
 
 My Project: 
-- https://btlnk.com
 - https://pullsms.com
 
 <h3 align="left">Connect with me:</h3>
